@@ -5,7 +5,8 @@ Use this code to merge .hmm files together
 
 Both **getarray.py** and **aaprobtohmm.py** should be placed in the same folder that Modelangelo was ran in
 i.e. the parent folder to 'output'
-getarray.py will look in ./output/hmm_profiles for the .hmm files that you requested to merge
+
+(getarray.py will look in ./output/hmm_profiles for the .hmm files that you requested to merge)
 
 Edit aaprobstohmm.py to select which .hmm files you'd like to stitch.
 
