@@ -8,7 +8,7 @@ i.e. the parent folder to 'output'
 
 (getarray.py will look in ./output/hmm_profiles for the .hmm files that you requested to merge)
 
-Edit aaprobstohmm.py to select which .hmm files you'd like to stitch.
+Edit **aaprobstohmm.py** to select which .hmm files you'd like to stitch.
 
 ```
 #Define the list of .hmm filenames and integers
@@ -16,7 +16,7 @@ hmm_filenames = ["BG.hmm",2,"A0.hmm"]
 ```
 
 In this example you will stitch together BG.hmm with an insertion of 2 random amino acids then A0.hmm
-aaprobtohmm.py will call on the getarray.py and generate a concatenated probability array.
+**aaprobtohmm.py** will call on the getarray.py and generate a concatenated probability array.
 This aray will then be run through modelangelo's orignal ump_aa_logits_to_hmm
 
 ```
