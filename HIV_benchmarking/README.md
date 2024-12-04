@@ -1,9 +1,22 @@
 # HIV Example
 
 This folder contains the maps and data from the original Sequence from Structure paper 
-*From structure to sequence: Antibody discovery using cryoEM* [DOI: 10.1126/sciadv.abk2039](https://doi.org/10.1126/sciadv.abk2039)
+*Antanasijevic et al.*  
+*From structure to sequence: Antibody discovery using cryoEM*  
+[DOI: 10.1126/sciadv.abk2039](https://doi.org/10.1126/sciadv.abk2039)
 
 # Folder Contents
+
+pAbC-1 - parent folder - The folder that ModelAngelo analysis was run in  
+Note: This folder should contain the hmmmerging scripts
+
+output - ModelAngelo output folder - The folder that contains output.cif and hmm_profiles folder  
+
+hmm_output - ModelAngelo HMMER output folder - Contains .hhr and .a2m files after running HMMER
+
+sequencedatabase - contains the .fasta file of antibdodies from *Antanasijevic et al.*
+
+# Example Case
 
 In our paper ()
 ModelAngelo provided a fragmented model for the output of pAbC-2  
