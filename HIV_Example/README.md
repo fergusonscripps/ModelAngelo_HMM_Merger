@@ -30,3 +30,5 @@ For the light chain the two in brackets represents 2 unknown amino acids.
 ModelAngelo did build Q between Bv and A7, however, this chain is reversed.  
 As such we chose not to use this chain in our paper.  
 
+You can see in file aaprobtohmm.py how we merge these hmm files together.
+
