@@ -8,7 +8,7 @@ This folder contains the maps and data from the original Sequence from Structure
 # Folder Contents
 
 **pAbC-2** - parent folder - The folder that ModelAngelo analysis was run in  
-\t**Note:** This folder should contain the hmm merging scripts  
+    **Note:** This folder should contain the hmm merging scripts  
   
 **output** - ModelAngelo output folder - The folder that contains output.cif and hmm_profiles folder  
   
