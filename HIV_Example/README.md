@@ -1,4 +1,4 @@
-# HIV Example pAbC-2
+# HIV Example pAbC-2 Using ModelAngelo v1.0.1
 
 This folder contains the maps and data from the original Sequence from Structure paper  
 *From structure to sequence: Antibody discovery using cryoEM*  
