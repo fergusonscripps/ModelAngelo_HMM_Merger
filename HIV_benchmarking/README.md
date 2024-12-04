@@ -1,8 +1,7 @@
 # HIV Example
 
 This folder contains the maps and data from the original Sequence from Structure paper 
-From structure to sequence: Antibody discovery using cryoEM 
-[Link Text]DOI: 10.1126/sciadv.abk2039
+*From structure to sequence: Antibody discovery using cryoEM* [DOI: 10.1126/sciadv.abk2039](https://doi.org/10.1126/sciadv.abk2039)
 
 # Folder Contents
 
