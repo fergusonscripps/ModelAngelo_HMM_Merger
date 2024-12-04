@@ -13,7 +13,7 @@ This folder contains the maps and data from the original Sequence from Structure
   
 **output** - ModelAngelo output folder - The folder that contains output.cif and hmm_profiles folder  
   
-**hmm_output** - ModelAngelo HMMER output folder - Contains .hhr and .a2m files after running HMMER (due to size constraints some are zipped)
+**hmm_output** - ModelAngelo HMMER output folder - Contains .hhr and .a2m files after running HMMER (due to size constraints results are zipped)
   
 **sequencedatabase** - contains the *zipped* .fasta file of antibdodies from *Antanasijevic et al.*
   
