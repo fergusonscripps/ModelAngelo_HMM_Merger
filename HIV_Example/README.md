@@ -19,7 +19,7 @@ This folder contains the maps and data from the original Sequence from Structure
   
 # Example Case
 
-In our paper ()
+In our paper ()  
 ModelAngelo provided a fragmented model for the output of pAbC-2  
 To see this model please open pAbC-2/output/output.cif in chimeraX  
 To run MA yourself you will need to unzip large sequence files included here  
