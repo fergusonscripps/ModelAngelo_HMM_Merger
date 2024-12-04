@@ -1,0 +1,16 @@
+#!/bin/bash
+#SBATCH --partition=ampere
+#SBATCH --ntasks-per-node=32
+#SBATCH --mem=25gb
+#SBATCH --gres=gpu:1
+#SBATCH --time=02:30:00
+#SBATCH --job-name=angHMMER
+
+#################################
+
+module purge
+module load modelangelo/1.0.1
+
+model_angelo hmm_search --i output --f ../sequencedatabase/HIVSFS.fasta --o hmm_output
+
+exit

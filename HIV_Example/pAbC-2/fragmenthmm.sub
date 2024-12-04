@@ -1,0 +1,17 @@
+#!/bin/bash
+#SBATCH --partition=ampere
+#SBATCH --ntasks-per-node=32
+#SBATCH --mem=25gb
+#SBATCH --gres=gpu:1
+#SBATCH --time=02:30:00
+#SBATCH --job-name=angels<3
+
+#################################
+
+module purge
+module load python/3.8.3
+module load modelangelo/1.0.1
+
+python aaprobtohmm.py 
+
+exit
