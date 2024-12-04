@@ -20,8 +20,8 @@ This folder contains the maps and data from the original Sequence from Structure
 
 In our paper ()  
 ModelAngelo provided a fragmented model for the output of pAbC-2  
-To see this model please open pAbC-2/output/output.cif in chimeraX  
-To run MA yourself you will need to unzip large sequence files included here  
+To see this model open pAbC-2/output/output.cif in chimeraX  
+To run MA unzip large sequence files included in **sequencedatabase**
 and download the pAb map found at [EMD-23232](https://www.emdataresource.org/EMD-23232)
   
 For pAbC-2 you need to merge the following chains together:  
