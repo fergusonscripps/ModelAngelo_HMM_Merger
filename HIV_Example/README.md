@@ -1,11 +1,11 @@
-# HIV Example
+# HIV Example pAbC-2
 
 This folder contains the maps and data from the original Sequence from Structure paper  
 *From structure to sequence: Antibody discovery using cryoEM*  
 *Antanasijevic et al.*    
 [DOI: 10.1126/sciadv.abk2039](https://doi.org/10.1126/sciadv.abk2039)
 
-# Folder Contents
+# Folder Breakdown
 
 **pAbC-2** - parent folder - The folder that ModelAngelo analysis was run in  
 &nbsp;&nbsp;&nbsp;&nbsp;**Note:** This folder should contain the hmm merging scripts  
@@ -16,7 +16,7 @@ This folder contains the maps and data from the original Sequence from Structure
   
 **sequencedatabase** - contains the *zipped* .fasta file of antibdodies from *Antanasijevic et al.*
   
-# Example Case
+# What we merged in our paper
 
 In our paper ()  
 ModelAngelo provided a fragmented model for the output of pAbC-2  
