@@ -23,7 +23,7 @@ In our paper ()
 ModelAngelo provided a fragmented model for the output of pAbC-2  
 To see this model please open pAbC-2/output/output.cif in chimeraX  
 To run MA yourself you will need to unzip large sequence files included here  
-and download the pAb map found at [EMD-23232 Resource](https://www.emdataresource.org/EMD-23232)
+and download the pAb map found at [EMD-23232](https://www.emdataresource.org/EMD-23232)
   
 For pAbC-2 you need to merge the following chains together:  
   
