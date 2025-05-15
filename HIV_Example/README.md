@@ -32,8 +32,7 @@ For pAbC-2 you need to merge the following chains together:
 Note: that chains are case sensitive.  
   
 For the light chain the two in brackets represents 2 unknown amino acids.  
-ModelAngelo did build Q between Bv and A7, however, this chain is reversed.  
-As such we chose not to use this chain in our paper.  
+ModelAngelo did build a chain "Q" between chains Bv and A7, however, ModelAngelo built chain Q in reverse likely due to poor quality map data in this region so we chose not to use this chain in our paper and is why we inserted 2 random amino acids to preserve the chain length in the .hmm file.   
   
 You can see in file aaprobtohmm.py how we merged these hmm files together for the HMMER search.  
 
