@@ -16,9 +16,9 @@ This folder contains the maps and data from the original Sequence from Structure
   
 **sequencedatabase** - contains the *zipped* .fasta file of antibdodies from *Antanasijevic et al.*
   
-# What we merged in our paper
+# Fragements Merged for pAbC-2 
 
-In our paper ()  
+In our [Modelangelo SFS method paper](https://www.biorxiv.org/content/10.1101/2024.12.06.627063v1)  
 ModelAngelo provided a fragmented model for the output of pAbC-2  
 To see this model open pAbC-2/output/output.cif in chimeraX  
 To run MA unzip large sequence files included in **sequencedatabase**
